@@ -1,5 +1,3 @@
-﻿Logowanie do aplikacji:
-- użytkownik to adres email w poprawnym formacie (xyz@xyz.com)
+Logowanie do aplikacji:
+- użytkownik to adres email w poprawnym formacie
 - hasło musi spełniać normy bezpieczeństwa i wygasa co 30 dni
-
-To jest linijka do wycofania
